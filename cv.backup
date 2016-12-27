@@ -1,0 +1,19 @@
+\documentclass[a4paper,10pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=3cm]{geometry}
+\usepackage{layout}
+\usepackage{color}
+
+% Title Page
+\title{\vspace{-17cm} \Huge \sffamily Jaskaran Veer Singh}
+%\author{}
+
+
+\begin{document}
+\maketitle
+
+\section{Internship}
+\subsection{Google Summer of Code}
+\end{Internship}
+
+\end{document}          

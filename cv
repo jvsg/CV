@@ -1,0 +1,20 @@
+\documentclass[a4paper,10pt, notitlepage]{jvsg_cv}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1cm]{geometry}
+\usepackage{layout}
+\usepackage{color}
+
+\title{ \Huge \sffamily Jaskaran Veer Singh}
+\author{}
+\date{}
+
+\hoffset = 0cm
+\voffset = -2cm
+\marginparwidth = 10cm
+\begin{document}
+\maketitle
+
+\section*{Internship}
+\subsection*{Google Summer of Code}
+
+\end{document}          
